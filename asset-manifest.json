@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ctc_out_intelliaa/static/css/main.46cdcefa.css",
+    "main.js": "/ctc_out_intelliaa/static/js/main.abcd1d06.js",
+    "index.html": "/ctc_out_intelliaa/index.html",
+    "main.46cdcefa.css.map": "/ctc_out_intelliaa/static/css/main.46cdcefa.css.map",
+    "main.abcd1d06.js.map": "/ctc_out_intelliaa/static/js/main.abcd1d06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46cdcefa.css",
+    "static/js/main.abcd1d06.js"
+  ]
+}
